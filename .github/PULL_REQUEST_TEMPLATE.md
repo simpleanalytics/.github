@@ -1,10 +1,8 @@
 ## Summary
 
-Describe the change.
-
-## Linked issue
-
 Closes #
+
+Describe the change.
 
 ## Security implications
 
@@ -19,3 +17,4 @@ Describe how this was tested.
 
 - [ ] Linked to an issue
 - [ ] Tested
+- [ ] Asked for a review
