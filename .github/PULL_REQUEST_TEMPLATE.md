@@ -12,9 +12,3 @@ Describe the change.
 ## Testing
 
 Describe how this was tested.
-
-## Checklist
-
-- [ ] Linked to an issue
-- [ ] Tested
-- [ ] Asked for a review
